@@ -15,8 +15,8 @@ The dashboard was published on Tableau Public to make it accessible and interact
 ## Live Dashboard
 
 View the interactive Tableau dashboard here:  
-[[Tableau Public Dashboard]((https://public.tableau.com/views/SalesPerformanceDashboard_17800779831720/SalesPerformanceDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-)]
+[Tableau Public Dashboard](https://public.tableau.com/views/SalesPerformanceDashboard_17800779831720/SalesPerformanceDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+)
 
 ## Project Objectives
 
